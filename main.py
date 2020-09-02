@@ -1,6 +1,6 @@
 from person import Person
 
-
+# I succesfully added my project to github.
 
 class Student(Person):
     def __init__(self, psn, first_name, last_name, date_of_birth, phone_nr, address, student_id, admission_date,
